@@ -1,0 +1,10 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "mouse0270-bootstrap-notify@3.1.7",
+      "destination": "wwwroot/lib/mouse0270-bootstrap-notify/"
+    }
+  ]
+}
