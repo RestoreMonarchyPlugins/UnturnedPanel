@@ -1,2 +1,1 @@
-# RestoreMonarchy.WebUnturnedPanel
- Web Panel for Restore Monarchy plugins using MySQL & more!
+### Read more about Unturned Panel on official [Restore Monarchy Docs](https://docs.restoremonarchy.com/en/unturnedpanel/) page! 
