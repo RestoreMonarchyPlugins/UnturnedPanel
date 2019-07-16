@@ -4,7 +4,7 @@
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
     <RootNamespace>RestoreMonarchy.WebUnturnedPanel</RootNamespace>
-    <Version>1.1.0</Version>
+    <Version>1.1.1</Version>
     <Authors>MCrow</Authors>
     <Company>Restore Monarchy</Company>
     <Product>UnturnedPanel</Product>
